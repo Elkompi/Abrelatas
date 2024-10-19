@@ -1,0 +1,7 @@
+echo "# Abrelatas" >> README.md
+git init
+git add README.md
+git m "content:com.google.android.apps.nbu.files.provider/2/387/"
+git branch -M main
+git remote add origin https://github.com/Elkompi/Abrelatas.git
+git push -u 192.168.0.10. main.git
